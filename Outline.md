@@ -16,7 +16,7 @@ This file might help illustrate the arc of the talk for those not in attendance,
 * Kerry Campbell tweeted about "10 minutes with a calculator" to sum a column (from PDF).
     * Kerry did the best he could, given the cards he was dealt: a PDF.
     * How do we know the result is correct? How can we leverage Kerry's work?
-* I took 2 hours to liberate the PDF to a simple CSV.
+* I took 2 hours to liberate the PDF to a simple comma-separated-value file (CSV).
     * Now it can be imported into a spreadsheet. We can write programs with it, etc.
     * We are only limited by our imagination, not by the technology.
 * Three essential elements of Open Data:
