@@ -40,8 +40,39 @@ This file might help illustrate the arc of the talk for those not in attendance,
     * unleash (i.e. convert potential energy between nerds, gov't actors, engaged citizens)
     * ROI (which resonates with business and gov't)
 
-##### Open Data Book Club
+##### Open Data Book Club (intro)
 
 * circa 2007, a man in Ottawa scraped skating-rink hours from website, created Google Maps mash-up
-* today, Ottawa has full-blown open data culture
+* today, Ottawa has full-blown open data culture (the flowery garden)
+* Open Data Book Club:
+    * monthly MeetUp of software devs, librarians, gov't reps, citizens
+    * each month they study **a data set**
+    * visualizations, hack night, etc
+
+##### Open Data Book Club (for PEI)
+
+* I propose that we start one as an offshoot from PEI Developers
+* logistics:
+    * Fall 2015
+    * monthly meeting
+    * diverse, as in Ottawa
+* challenge: must fertilize & till the garden
+    * advocate Open Data with gov't
+    * crowd-source/curate Open Data (We need examples that make people lean forward. They can be compelling, or trite [if fun]). 
+    * spoonful of sugar (apps, visualizations) helps the medicine go down (Open Data agenda)
+    * bonus: can we help non-profit organizations? seniors? those less fortunate?
+    * some nights might include info sessions on
+        * statistics
+        * info-graphic design
+        * journalism (fair use etc)
+        * legal / ethics
+
+##### Open Data Book Club (finale)
+
+* If a 6-year-old girl draws a photo of her community, she might include a school, fire department, police department, hospital, church etc.
+* Where are the nerds in this picture? As a social institution? As a role model?
+* What if there was a maker-space (not addressed here, but would be awesome)
+* What if there was a group that effected change, here on PEI... a Volunteer Data Department?
+* This might be the beginning of something special. Let's lean forward, together.
+
 
