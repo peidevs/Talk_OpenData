@@ -15,6 +15,7 @@ This file might help illustrate the arc of the talk for those not in attendance,
 * We'll dig into a specific local example.
 * [Kerry Campbell tweeted](https://twitter.com/kerrywcampbell/status/580384484442394625) about "10 minutes with a calculator" to sum a column (from PDF).
     * Kerry did the best he could, given the cards he was dealt: a PDF.
+    * A calculator, *in 2015*? Is that an efficient use of our time?
     * How do we know the result is correct? How can we leverage Kerry's work?
 * I took 2 hours to liberate the PDF to a simple comma-separated-value file (CSV).
     * Now it can be imported into a spreadsheet; calculating the sum is trivial and democratized. 
