@@ -79,7 +79,8 @@ This file might help illustrate the arc of the talk for those not in attendance,
 ##### Open Data Book Club (finale)
 
 * If a 6-year-old girl draws a photo of her community, she might include a school, fire department, police department, hospital, church etc.
-* Where are the nerds in this picture? As a social institution? As a role model?
+* Her career options include IT as much as medicine, first responder, educator, etc.
+* So, where are we -- *the IT crowd* -- in her picture? As a social institution? As a role model?
 * What if there was a maker-space (not addressed here, but would be awesome)
 * What if there was a group that effected change, here on PEI... a Volunteer Data Department?
 * This might be the beginning of something special. Let's *lean forward*, together!
