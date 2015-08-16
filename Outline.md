@@ -32,14 +32,15 @@ This file might help illustrate the arc of the talk for those not in attendance,
 * My cousin asked about Open Data, and was asleep 3 minutes into my explanation.
 * Offered him an app example involving health-care for his infant son, and he physically **leaned forward** in interest. This is **precisely** *civic engagement*.
 * I was dealing with fertilizing the garden; my cousin wants the harvest. Apps, visualizations, info-graphics can enlighten, outrage, pique curiosity, etc.
-* Example: worst parking space in NYC. The talk illustrates a cycle of:
+* Example: [worst parking space in NYC](https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?language=en). The talk illustrates a cycle of:
     * data access
     * insight
     * engagement (i.e. *leaning forward*)
     * taking action
     * effecting change
 * For software developers, we deal with code frameworks all the time. Here, Ben Wellington found a bug in the "civic framework", submitted a patch, and it was accepted. Tremendous satisfaction!
-* Example: farmers in Uganda. No matter if Uganda or Morell, any farmer will lean forward re: crop yields.
+* Example: [farmers in Uganda](http://www.theguardian.com/global-development-professionals-network/2015/feb/11/open-data-how-mobile-phones-saved-bananas-from-bacterial-wilt-in-uganda). No matter if Uganda or Morell, any farmer will lean forward re: crop yields.
+* Example: [security cameras in Charlottetown](http://ruk.ca/content/charlottetown-cctv-openstreetmap)
 * Team Data Mission Statement: a masterpiece
     * Responsibly (i.e. respect privacy concerns)
     * unleash (i.e. convert potential energy between nerds, gov't actors, engaged citizens)
