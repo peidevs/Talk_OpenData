@@ -41,7 +41,7 @@ This file might help illustrate the arc of the talk for those not in attendance,
 * For software developers, we deal with code frameworks all the time. Here, Ben Wellington found a bug in the "civic framework", submitted a patch, and it was accepted. Tremendous satisfaction!
 * Example: [farmers in Uganda](http://www.theguardian.com/global-development-professionals-network/2015/feb/11/open-data-how-mobile-phones-saved-bananas-from-bacterial-wilt-in-uganda). No matter if Uganda or Morell, any farmer will lean forward re: crop yields.
 * Example: [security cameras in Charlottetown](http://ruk.ca/content/charlottetown-cctv-openstreetmap)
-* Team Data Mission Statement: a masterpiece
+* [Team Data Mission Statement](https://www.flickr.com/photos/mgifford/18028243078/in/photolist-tmHe7T-tmzzsE-tmzqhA-ttdFHe-tKErEn-ttcWRx-tDchZT-tKVYoH-tKPBxa-tKuJCh-tteoRs-tt67RA-tKN1Ht-sNE7Pq-tt5ucq-tHjTPj-tvw7Y9-tKm1J3-sNFrKQ-tKnzub-tKNAuX-tt6szd-sNRkHP-tKn7KQ-tKFjPr-tKkpYS-sGgM6B-tKLWoo-tNe64F-sNRUQF-tKLzRm-tvvTeq-tN71Ra-tNdtzp-tMLwK5-sRfLzK-tALCew-tKFAGZ-tHkLNd-ttdzoa-tCNdbS-tmw2Sw-tmDvHg-tmuXBs-tDcvFz-tD6Pvt-tmvBFL-tyJ41h-tD7ikM/): a masterpiece
     * Responsibly (i.e. respect privacy concerns)
     * unleash (i.e. convert potential energy between nerds, gov't actors, engaged citizens)
     * ROI (which resonates with business and gov't)
