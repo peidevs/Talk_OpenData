@@ -17,13 +17,13 @@ This file might help illustrate the arc of the talk for those not in attendance,
     * Kerry did the best he could, given the cards he was dealt: a PDF.
     * How do we know the result is correct? How can we leverage Kerry's work?
 * I took 2 hours to liberate the PDF to a simple comma-separated-value file (CSV).
-    * Now it can be imported into a spreadsheet. We can write programs with it, etc.
+    * Now it can be imported into a spreadsheet. We can write programs against it, and so on.
     * We are only limited by our imagination, not by the technology.
 * Three essential elements of Open Data:
     * accessible (online, non-proprietary format)
     * machine readable (PDF is evil)
     * explicit, permissive license
-* I won't publish CSV because PDF wasn't licensed; I don't have time to investigate "fair use", or the default in PEI, etc 
+* I won't publish CSV because PDF wasn't licensed; I don't have time to investigate "fair use", or the default in PEI.
 * gov'ts typically publish "data sets" to a server called a portal or catalogue
     * these sites often have search and basic graphic capabilities
 
@@ -52,9 +52,9 @@ This file might help illustrate the arc of the talk for those not in attendance,
 * circa 2007, a man in Ottawa scraped skating-rink hours from website, created Google Maps mash-up
 * today, Ottawa has full-blown open data culture (the flowery garden)
 * Open Data Book Club:
-    * monthly MeetUp of software devs, librarians, gov't reps, citizens
+    * monthly MeetUp of software devs, librarians, gov't reps (aka *the blue shirts*, citizens
     * each month they study **a data set**
-    * visualizations, hack night, etc
+    * present visualizations, hack night, etc
 
 ##### Open Data Book Club (for PEI)
 
@@ -73,14 +73,16 @@ This file might help illustrate the arc of the talk for those not in attendance,
     * some nights might include info sessions on
         * statistics
         * info-graphic design
-        * journalism (fair use etc)
+        * journalism (e.g. fair use)
         * legal / ethics
+        * data science
+        * big data
 
 ##### Open Data Book Club (finale)
 
-* If a 6-year-old girl draws a photo of her community, she might include a school, fire department, police department, hospital, church etc.
+* If a 6-year-old girl draws a photo of her community on PEI, she might include a school, fire department, police department, hospital, church ...
 * Her career options include IT as much as medicine, first responder, educator, etc.
-* So, where are we -- *the IT crowd* -- in her picture? As a social institution? As a role model?
+* So, where are we -- *the nerds* -- in her picture? As a social institution? As a role model?
 * What if there was a maker-space (not addressed here, but would be awesome)
 * What if there was a group that effected change, here on PEI... a Volunteer Data Department?
 * This might be the beginning of something special. Let's *lean forward*, together!
