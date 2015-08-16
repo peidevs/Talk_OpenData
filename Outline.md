@@ -58,15 +58,17 @@ This file might help illustrate the arc of the talk for those not in attendance,
 
 ##### Open Data Book Club (for PEI)
 
-* I propose that we start one as an offshoot from PEI Developers
+* I propose that we start one as part of PEI Developers
 * logistics:
     * Fall 2015
     * monthly meeting
     * diverse, as in Ottawa
 * challenge: must fertilize & till the garden
     * advocate Open Data with gov't
-    * crowd-source/curate Open Data (We need examples that make people lean forward. They can be compelling, or trite [if fun]). 
+    * crowd-source/curate Open Data (We need examples that make people lean forward. They can be compelling, or trite, if fun). 
     * spoonful of sugar (apps, visualizations) helps the medicine go down (Open Data agenda)
+    * An "app" is application but also an **appetizer**. We must manage scope.
+    * If an idea is too large, act as broker for commercial software shops.
     * bonus: can we help non-profit organizations? seniors? those less fortunate?
     * some nights might include info sessions on
         * statistics
