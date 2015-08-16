@@ -45,7 +45,7 @@ This file might help illustrate the arc of the talk for those not in attendance,
 * Example: [security cameras in Charlottetown](http://ruk.ca/content/charlottetown-cctv-openstreetmap)
 * [Team Data Mission Statement](https://www.flickr.com/photos/mgifford/18028243078/in/photolist-tmHe7T-tmzzsE-tmzqhA-ttdFHe-tKErEn-ttcWRx-tDchZT-tKVYoH-tKPBxa-tKuJCh-tteoRs-tt67RA-tKN1Ht-sNE7Pq-tt5ucq-tHjTPj-tvw7Y9-tKm1J3-sNFrKQ-tKnzub-tKNAuX-tt6szd-sNRkHP-tKn7KQ-tKFjPr-tKkpYS-sGgM6B-tKLWoo-tNe64F-sNRUQF-tKLzRm-tvvTeq-tN71Ra-tNdtzp-tMLwK5-sRfLzK-tALCew-tKFAGZ-tHkLNd-ttdzoa-tCNdbS-tmw2Sw-tmDvHg-tmuXBs-tDcvFz-tD6Pvt-tmvBFL-tyJ41h-tD7ikM/): a masterpiece
     * Responsibly (i.e. respect privacy concerns)
-    * unleash (i.e. convert potential energy between nerds, gov't actors, engaged citizens)
+    * unleash (i.e. convert potential energy between nerds, gov't actors, engaged citizens into kinetic energy / action)
     * ROI (which resonates with business and gov't)
          * we've already invested in the data, re: collection, storage
          * consider economic impact of weather, GPS
@@ -55,7 +55,7 @@ This file might help illustrate the arc of the talk for those not in attendance,
 * circa 2007, a man in Ottawa scraped skating-rink hours from website, created Google Maps mash-up
 * today, Ottawa has full-blown open data culture (the flowery garden)
 * [Open Data Book Club](http://opendatabook.club/):
-    * monthly MeetUp of software devs, librarians, gov't reps (aka *the blue shirts*, citizens
+    * monthly MeetUp of software devs, librarians, gov't reps (aka the [blue shirts](http://ruk.ca/content/man-blue-shirt), citizens
     * each month they study **a data set**
     * inspired by [hack event fatigue](http://kittmcg.github.io/ODO-CODS15/#/)
     * present visualizations, hack night (not hackathon), etc
