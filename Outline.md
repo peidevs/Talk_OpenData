@@ -55,7 +55,7 @@ This file might help illustrate the arc of the talk for those not in attendance,
 * circa 2007, a man in Ottawa scraped skating-rink hours from website, created Google Maps mash-up
 * today, Ottawa has full-blown open data culture (the flowery garden)
 * [Open Data Book Club](http://opendatabook.club/):
-    * monthly MeetUp of software devs, librarians, gov't reps (aka the [blue shirts](http://ruk.ca/content/man-blue-shirt), citizens
+    * monthly MeetUp of software devs, librarians, gov't reps (aka the [blue shirts](http://ruk.ca/content/man-blue-shirt)), citizens
     * each month they study **a data set**
     * inspired by [hack event fatigue](http://kittmcg.github.io/ODO-CODS15/#/)
     * present visualizations, hack night (not hackathon), etc
