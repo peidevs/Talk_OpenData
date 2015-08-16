@@ -1,7 +1,9 @@
 
 ##### Outline for Open Data: Let's Lean Forward
 Michael Easter
+
 August, 2015
+
 PEI Devs, Charlottetown Yacht Club
 
 This file might help illustrate the arc of the talk for those not in attendance, as the slides in isolation will be pointless.
