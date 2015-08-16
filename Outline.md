@@ -26,7 +26,7 @@ This file might help illustrate the arc of the talk for those not in attendance,
     * machine readable (PDF is evil)
     * explicit, permissive license
 * I won't publish CSV because PDF wasn't licensed; I don't have time to investigate "fair use", or the default in PEI.
-* gov'ts typically publish "data sets" to a server called a portal or catalogue
+* gov'ts typically publish "data sets" to a server called a portal or [catalogue](http://data.ottawa.ca/en/)
     * these sites often have search and basic graphic capabilities
 
 ##### Open Data (part 2)
