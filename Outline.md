@@ -22,14 +22,21 @@ This file might help illustrate the arc of the talk for those not in attendance,
 ##### Open Data (part 2)
 
 * My cousin asked about Open Data, and was asleep 3 minutes into my explanation.
-* Offered him an app example, and he physically leaned forward in interest. This is civic engagement.
+* Offered him an app example, and he physically **leaned forward** in interest. This is civic engagement.
 * I was dealing with fertilizing the garden; my cousin wants the harvest. Apps, visualizations, info-graphics can enlighten, outrage, pique curiosity, etc.
 * Example: worst parking space in NYC. The talk illustrates a cycle of:
     * data access
     * insight
-    * engagement (i.e. leaning forward)
+    * engagement (i.e. **leaning forward**)
     * taking action
     * effecting change
+* For software developers, we deal with code frameworks all the time. Here, Ben Wellington found a bug in the "civic framework", submitted a patch, and it was accepted. Tremendous satisfaction!
+* Example: farmers in Uganda. No matter if Uganda or Morell, any farmer will lean forward re: crop yields.
+* Team Data Mission Statement: a masterpiece
+    * Responsibly
+    * unleash (i.e. converting potential energy between devs, gov't actors, engaged citizens)
+    * ROI (which resonates with business and gov't)
+
 
 ##### Open Data Book Club
 
