@@ -74,9 +74,13 @@ This file might help illustrate the arc of the talk for those not in attendance,
     * An "app" is application but also an **appetizer**. We must manage scope.
     * If an idea is too large, act as broker for commercial software shops.
     * bonus: can we help non-profit organizations? seniors? those less fortunate?
-    * some nights might include info sessions on
+    * the plan is fluid, but ideally, meetings consist of:
+        * publishers: gov't reps presenting a data set, or describing what is available
+        * consumers: nerds & citizens describing a problem that could be solved with a data set
+        * presentations of insight from past sessions / data sets. (A goal to provide continuity across sessions.)
+    * meetings may also include info sessions on
         * statistics
-        * info-graphic design
+        * info-graphic design, visualization
         * journalism (e.g. fair use)
         * legal / ethics
         * data science
