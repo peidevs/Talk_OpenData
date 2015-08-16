@@ -17,8 +17,9 @@ This file might help illustrate the arc of the talk for those not in attendance,
     * Kerry did the best he could, given the cards he was dealt: a PDF.
     * How do we know the result is correct? How can we leverage Kerry's work?
 * I took 2 hours to liberate the PDF to a simple comma-separated-value file (CSV).
-    * Now it can be imported into a spreadsheet. We can write programs against it, and so on.
-    * We are only limited by our imagination, not by the technology.
+    * Now it can be imported into a spreadsheet; calculating the sum is trivial and democratized. 
+    * Finding min/max/average is easy. Further, we can write programs against it: a Google Map mash-up, perhaps. Who knows?
+    * With liberated data, we are only limited by our imagination, not by the technology.
 * Three essential elements of Open Data:
     * accessible (online, non-proprietary format)
     * machine readable (PDF is evil)
