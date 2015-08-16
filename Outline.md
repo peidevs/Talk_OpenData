@@ -44,6 +44,8 @@ This file might help illustrate the arc of the talk for those not in attendance,
     * Responsibly (i.e. respect privacy concerns)
     * unleash (i.e. convert potential energy between nerds, gov't actors, engaged citizens)
     * ROI (which resonates with business and gov't)
+         * we've already invested in the data, re: collection, storage
+         * consider economic impact of weather, GPS
 
 ##### Open Data Book Club (intro)
 
