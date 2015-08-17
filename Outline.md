@@ -33,7 +33,7 @@ This file might help illustrate the arc of the talk for those not in attendance,
 
 * My cousin asked about Open Data, and was asleep 3 minutes into my explanation.
 * Offered him an app example involving health-care for his infant son, and he physically **leaned forward** in interest. This is **precisely** *civic engagement*.
-* I was dealing with fertilizing the garden; my cousin wants the harvest. Apps, visualizations, info-graphics can enlighten, outrage, pique curiosity, etc.
+* I was dealing with fertilizing the garden; my cousin wants the harvest. Apps, visualizations, info-graphics can enlighten, outrage, pique curiosity, etc. People [respond to stories](https://soundcloud.com/richard-pietro/harming-ourselves-bianca-wylie).
 * Example: [worst parking space in NYC](https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?language=en). The talk illustrates a cycle of:
     * data access
     * insight
